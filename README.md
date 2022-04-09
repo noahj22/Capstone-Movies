@@ -16,16 +16,3 @@ This project is designed to test my ability to both build complex servers and ac
     Return joined and nested data with Knex.
     Write database migrations using Knex's migration tools.
     Deploy your backend server to a cloud service.
-
-Home Page
-
-Front Page
-All Movies Page
-
-Movies Page
-All Theaters Page
-
-Theaters Page
-Movie with Reviews Page
-
-Movie Reviews
